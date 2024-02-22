@@ -58,6 +58,8 @@ ORDER BY Games_Officated DESC;
 ```
 SQL code queried on SSMS to determine the number of game officiated by individual referees throughout the season.
 
+![image](https://github.com/Tobicity/TOBI-A.-C.-PORTFOLIO-1-SQL-EXCEL-/assets/151846661/2af3e5b2-3c02-4dbb-8427-fd1d423bd76c)
+
 
 ```sql
 SELECT referee,
@@ -70,6 +72,13 @@ GROUP BY referee;
 ```
 SQL code queried on SSMS to determine the average number of goals, fouls, yellow/red cards in each game for individual referees.
 
+![image](https://github.com/Tobicity/TOBI-A.-C.-PORTFOLIO-1-SQL-EXCEL-/assets/151846661/b3fadeb3-c37d-4959-85e6-1b94e3251644)
+
+![image](https://github.com/Tobicity/TOBI-A.-C.-PORTFOLIO-1-SQL-EXCEL-/assets/151846661/20a8eed3-050d-4876-94cd-86811d678414)
+
+![image](https://github.com/Tobicity/TOBI-A.-C.-PORTFOLIO-1-SQL-EXCEL-/assets/151846661/62167337-36c0-4d8f-afeb-ce5ae44f6ed3)
+
+![image](https://github.com/Tobicity/TOBI-A.-C.-PORTFOLIO-1-SQL-EXCEL-/assets/151846661/de14a2d2-8a5c-4441-9a7e-fd36264b342d)
 
 ```sql
 SELECT referee,
@@ -82,6 +91,13 @@ GROUP BY referee;
 ```
 SQL code queried on SSMS to determine the average number of home/away shots on goal, and average ball possession for both the home/away teams in each game officiated by individual referees.
 
+![image](https://github.com/Tobicity/TOBI-A.-C.-PORTFOLIO-1-SQL-EXCEL-/assets/151846661/fa90d5f0-384d-40d9-bdcc-d336b8899c9a)
+
+![image](https://github.com/Tobicity/TOBI-A.-C.-PORTFOLIO-1-SQL-EXCEL-/assets/151846661/766c48b1-7105-4fd8-b5e6-a1ffd36910d8)
+
+![image](https://github.com/Tobicity/TOBI-A.-C.-PORTFOLIO-1-SQL-EXCEL-/assets/151846661/12b98dd8-3293-46ea-b220-c9f052f33ec3)
+
+![image](https://github.com/Tobicity/TOBI-A.-C.-PORTFOLIO-1-SQL-EXCEL-/assets/151846661/9d45e06e-a25a-4e25-b9b5-76e8d2e8d041)
 
 ```sql
 SELECT referee,
@@ -109,4 +125,4 @@ Badreddine, S., & Spranger, M. (2021). Extending Real Logic with Aggregate Funct
 
 [Data source](https://data.world)
 
-
+😄
